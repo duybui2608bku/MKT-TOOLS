@@ -372,7 +372,7 @@ export function PostsForm() {
               <div className="flex size-9 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">
                 M
               </div>
-              <span>MKT Tools</span>
+              <span>MKT TOOLS</span>
               <CheckCircle2 className="size-4 text-sky-500" />
               <span className="ml-auto rounded-full bg-muted px-2 py-1 text-xs text-muted-foreground">
                 {service}
